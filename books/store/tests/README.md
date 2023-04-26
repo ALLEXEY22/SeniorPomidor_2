@@ -1,5 +1,5 @@
 ## Тест api
-1. Создается файл test_api.py (вывод на печать только url и response)
+1. Создается файл [link totest_api.py](test_api.py) (вывод на печать только url и response)
 ```
     from django.urls import reverse
 from rest_framework import status
